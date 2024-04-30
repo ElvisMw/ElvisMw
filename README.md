@@ -18,4 +18,4 @@
 
 <hr>
 
-![duty](gif/shake.gif)
+<img src="gif/shake.gif" alt="duty" width="300" height="200">
