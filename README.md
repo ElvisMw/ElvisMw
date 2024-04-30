@@ -7,16 +7,6 @@
 </a>
 <br>
 
-# Tech Stack
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&animation=spin&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Puppet&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Docker&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Git&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Django&fill=black)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML&fill=black)](https://github.com/harish-sethuraman/readme-components)
 
-<hr>
 
 <img src="gif/shakee.gif" alt="duty" width="300" height="200">
