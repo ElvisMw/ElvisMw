@@ -4,6 +4,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElvisMw&layout=compact&langs_count=8&card_width=320true&theme=transparent&include_all_commits=true" />
 </a>
+<br>
+<hr>
+<br>
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/ElvisMw/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/ElvisMw/readme-components)
