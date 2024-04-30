@@ -1,1 +1,0 @@
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME)](https://wakatime.com/badge/user/018b4212-707d-4720-a766-92cf1b15702b/project/018c974f-4042-4a24-bf34-01615d132401)
