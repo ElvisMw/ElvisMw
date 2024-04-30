@@ -40,7 +40,7 @@ const logoComponentStyles = (fill, textfill, animation, svgfill) => {
         margin-top: 10px;
       }
       .btn-color {
-        background: ${fill ? colorFiller(fill) : "(0,0,0)"};
+        background: ${fill ? colorFiller(fill) : "#8965e0"};
         color : ${textfill ? `#${textfill}` : "white"} ;
       }
       @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
