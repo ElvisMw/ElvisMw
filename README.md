@@ -5,4 +5,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElvisMw&layout=compact&langs_count=8&card_width=320true&theme=transparent&include_all_commits=true" />
 </a>
 <hr>
-<a href="https://wakatime.com/share/@018b4212-707d-4720-a766-92cf1b15702b/84976b79-ed77-4b2d-9c8f-8ba42c4bbc54"/>
+<a href="https://wakatime.com/share/@elvismw/5e6283d1-762e-4a4a-b24d-29d8528037d1">
+  <img src="https://wakatime.com/share/@018b4212-707d-4720-a766-92cf1b15702b/84976b79-ed77-4b2d-9c8f-8ba42c4bbc54.svg" alt="Wakatime Stats">
+</a>
