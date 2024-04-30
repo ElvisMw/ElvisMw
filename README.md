@@ -8,6 +8,6 @@
 <hr>
 
 <div style="border: 2px solid white; border-radius: 7px; padding: 5px; display: inline-block;">
-    <img src="gif/shakee.gif" alt="duty" width="1000" height="200">
+    <img src="gif/shakee.gif" alt="duty" width="800" height="200">
 </div>
 
