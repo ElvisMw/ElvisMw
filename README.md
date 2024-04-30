@@ -8,5 +8,5 @@
 <hr>
 
 <div align="center">
-    <img src="gif/shakee.gif" alt="duty" width="467" height="200" style="border: 2px solid white; border-radius: 7px;">
+    <img src="gif/shakee.gif" alt="duty" width="467" height="200" style="border: 5px solid white; border-radius: 7px;">
 </div>
