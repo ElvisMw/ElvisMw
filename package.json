@@ -1,0 +1,21 @@
+{
+  "name": "readme-components",
+  "version": "1.0.0",
+  "description": "Components that can be used in readme are generated dynamically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvisMw/readme-components.git"
+  },
+  "keywords": [
+    "readmecomponents"
+  ],
+  "homepage": "https://github.com/ElvisMw/readme-components#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "simple-icons": "^3.5.0"
+  }
+}
