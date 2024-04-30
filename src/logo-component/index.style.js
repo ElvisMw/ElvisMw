@@ -25,7 +25,7 @@ const logoComponentStyles = (fill, textfill, animation, svgfill) => {
         padding-right: 15px;
         border-radius: 50px;
         float: left;
-        color: #000000;
+        color: #fff;
         box-shadow: 5px 5px 2px -2px #a5a5a5;
         text-transform: capitalize;
         font-size: 20px;
@@ -40,7 +40,7 @@ const logoComponentStyles = (fill, textfill, animation, svgfill) => {
         margin-top: 10px;
       }
       .btn-color {
-        background: ${fill ? colorFiller(fill) : "black"};
+        background: ${fill ? colorFiller(fill) : "(0,0,0)"};
         color : ${textfill ? `#${textfill}` : "white"} ;
       }
       @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
