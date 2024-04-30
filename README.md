@@ -18,4 +18,4 @@
 
 <hr>
 
-<img src="gif/shake.gif" alt="duty" width="300" height="200">
+<img src="gif/shakee.gif" alt="duty" width="300" height="200">
