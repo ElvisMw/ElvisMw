@@ -5,7 +5,7 @@ I am a Full-stack Developer:
 <ul>
     <li>
         <a href="https://github.com/ElvisMw/Projects/tree/main/Bash">
-            <img src="gif/shell.png" alt="Bash Icon" width="15" height="10"> Bash Mini-Projects
+            <img src="gif/shell.png" alt="Bash Icon" width="10" height="15"> Bash Mini-Projects
         </a>
     </li>
     <li>
