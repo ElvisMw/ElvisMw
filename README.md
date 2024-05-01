@@ -2,6 +2,8 @@
 <details>
 <summary>My Super Power</summary>
 Full Stack Web Developer
+<ul><li>
+<a href="https://github.com/ElvisMw/Projects/tree/main/Python">Python Mini-Projects</a></li>
 
 </details>
 <details>
