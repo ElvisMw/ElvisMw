@@ -1,9 +1,18 @@
 
 <details>
 <summary>My Super Power</summary>
-Full Stack Web Developer
-<ul><li>
-<a href="https://github.com/ElvisMw/Projects/tree/main/Python">Python Mini-Projects</a></li>
+I solve problems using code:
+<ul>
+    <a href="https://github.com/ElvisMw/Projects/tree/main/Bash">
+    <img src="gif/shell.png" alt="Python Icon" width="10" height="10"> Bash Mini-Projects</a>
+    <br>
+    <a href="https://github.com/ElvisMw/Projects/tree/main/Python">
+    <img src="gif/python.png" alt="Python Icon" width="10" height="10"> Python Mini-Projects</a>
+    <br>
+
+</ul>
+
+
 
 </details>
 <details>
