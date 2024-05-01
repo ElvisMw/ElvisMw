@@ -29,7 +29,7 @@ Full-stack Developer:
 <hr style= "border-top: 1px solid white;">
 </details>
 <details>
-  <summary>My Daily Routine</summary>
+  <summary>Current Mission</summary>
 
   <div align="center">
     <img src="gif/shakee.gif" alt="duty" width="467" height="200" style="border: 2px solid white; border-radius: 5px;">
