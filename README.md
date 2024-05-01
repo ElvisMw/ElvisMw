@@ -4,10 +4,10 @@
 I solve problems using code:
 <ul>
     <a href="https://github.com/ElvisMw/Projects/tree/main/Bash">
-    <img src="gif/shell.png" alt="Python Icon" width="15" height="15"> Bash Mini-Projects</a>
+    <img src="gif/shell.png" alt="Python Icon" width="20" height="20"> Bash Mini-Projects</a>
     <br>
     <a href="https://github.com/ElvisMw/Projects/tree/main/Python">
-    <img src="gif/python.png" alt="Python Icon" width="10" height="10"> Python Mini-Projects</a>
+    <img src="gif/python.png" alt="Python Icon" width="20" height="20"> Python Mini-Projects</a>
     <br>
 
 </ul>
