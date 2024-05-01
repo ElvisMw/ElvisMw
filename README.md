@@ -7,7 +7,7 @@ Full Stack Web Developer
 <details>
   <summary>GitHub Stats</summary>
 <a href="https://github.com/ElvisMw/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ElvisMw&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=ffffff&rank_icon=github"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ElvisMw&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=ffffff&rank_icon=github&cache_seconds=2160"/>
 </a>
 
 <a href="https://github.com/ElvisMw/convoychat">
