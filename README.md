@@ -6,7 +6,7 @@ Full Stack Web Developer
 </details>
 <details>
   <summary>GitHub Stats</summary>
-<a href="https://https://github.com/ElvisMw/github-readme-stats">
+<a href="https://github.com/ElvisMw/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ElvisMw&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=ffffff&hide_rank=true"/>
 </a>
 
