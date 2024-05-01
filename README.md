@@ -1,7 +1,7 @@
 
 <details>
 <summary>My Super Power</summary>
-I solve problems using code:
+I am a Full-stack Developer:
 <ul>
     <li>
         <a href="https://github.com/ElvisMw/Projects/tree/main/Bash">
