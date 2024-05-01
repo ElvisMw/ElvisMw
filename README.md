@@ -1,6 +1,6 @@
 
 <details>
-<summary>Super Power</summary>
+<summary>My Super Power</summary>
 Full Stack Web Developer
 
 </details>
