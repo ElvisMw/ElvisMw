@@ -4,12 +4,12 @@
 Full-stack Developer:
 <ul>
     <li>
-        <a href="https://github.com/ElvisMw/Projects/tree/main/Bash">
+        <a href= "https://github.com/ElvisMw/Projects/tree/main/Bash">
             <img src="gif/shell.png" alt="Bash Icon" width="13" height="13"> Bash Mini-Projects
         </a>
     </li>
     <li>
-        <a href="https://github.com/ElvisMw/Projects/tree/main/Python">
+        <a href= "https://github.com/ElvisMw/Projects/tree/main/Python">
             <img src="gif/python.png" alt="Python Icon" width="13" height="13"> Python Mini-Projects
         </a>
     </li>
