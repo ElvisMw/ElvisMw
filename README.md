@@ -1,11 +1,11 @@
 
 <details>
 <summary>My Super Power</summary>
-I am a Full-stack Developer:
+Full-stack Developer:
 <ul>
     <li>
         <a href="https://github.com/ElvisMw/Projects/tree/main/Bash">
-            <img src="gif/shell.png" alt="Bash Icon" width="10" height="15"> Bash Mini-Projects
+            <img src="gif/shell.png" alt="Bash Icon" width="10" height="10"> Bash Mini-Projects
         </a>
     </li>
     <li>
