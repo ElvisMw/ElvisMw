@@ -2,7 +2,7 @@
 <details>
 <summary>My Super Power</summary>
 <br>
-Full-stack Developer:
+Backend Developer:
 <ul>
     <li>
         <a href= "https://github.com/ElvisMw/Projects/tree/main/Bash">
