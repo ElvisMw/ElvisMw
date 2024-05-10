@@ -47,4 +47,3 @@ Full-stack Developer: Click on the tech stack logo view the mini-projects.
     <img src="gif/shakee.gif" alt="duty" width="467" height="200" style="border: 2px solid white; border-radius: 5px;">
   </div>
 </details>
-<hr>
