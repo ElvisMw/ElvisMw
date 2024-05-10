@@ -2,7 +2,10 @@
 <details>
 <summary>My Super Power</summary>
 <br>
-Full-stack Developer: Click on the tech stack logo view the mini-projects.
+I am a Full-stack Developer.
+<br><br>
+
+Kindly click on the tech stack logo to view the mini-projects.
 <br><br>
   <a href="https://github.com/ElvisMw/Projects/tree/main/Bash">
     <img height="30" src="https://img.shields.io/badge/Shell-ff0000?style=plastic&logo=gnu-bash&logoColor=000000" alt="Bash">
