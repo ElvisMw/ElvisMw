@@ -2,7 +2,7 @@
 <details>
 <summary>My Super Power</summary>
 <br>
-I am a Full-stack Developer.
+I am a Backend Developer.
 <br><br>
 
 Kindly click on the tech stack logo to view the mini-projects.
